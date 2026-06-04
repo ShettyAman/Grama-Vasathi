@@ -1,4 +1,4 @@
-# Gramma Vaxi - Authentic Rural Living
+# Gramma Vasathi - Authentic Rural Living
 
 Gramma Vaxi is a village tourism and farm-stay platform designed to bridge the gap between urban travelers and authentic rural experiences. The application allows users to discover local farm stays, understand rural etiquette through a cultural guide, and provides resources for hosts to prepare their homes for guests.
 
